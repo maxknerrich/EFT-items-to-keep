@@ -86,3 +86,6 @@
 | **CPU**           | Graphics Card | 4        |
 | **ES Lamp**       | RGD-5         | 1        |
 | **M. Scissors**   | Mag Case      | 1        |
+
+---
+by Max Knerrich (crutiv)
